@@ -76,3 +76,7 @@ h2 {
     border-image: linear-gradient(rgb(255, 0, 191), rgb(132, 255, 0));
     border-image-slice: 1;
 }
+
+footer p {
+    text-align: center;
+}
