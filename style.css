@@ -1,0 +1,33 @@
+body {
+    font-family: 'Radio Canada', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange {
+    color: rgb(255, 0, 34);
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(89, 71, 255));
+    font-weight: 700;
+    padding: 20px, 40px;
+    border-radius: 5px;
+}
